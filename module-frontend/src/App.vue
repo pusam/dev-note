@@ -1,11 +1,12 @@
 <template>
-    <router-view/>
+    <router-view />
+    <Popup />
 </template>
 
-<script>
+<script setup>
 
+import Popup from "@/components/popup/Popup.vue";
 </script>
 
 <style>
-
 </style>
