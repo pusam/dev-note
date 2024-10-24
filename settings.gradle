@@ -1,3 +1,4 @@
 rootProject.name = 'dev-note'
 include 'module-core'
+include 'module-frontend'
 include 'module-api'
